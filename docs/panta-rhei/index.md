@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Panta Rhei Protocol
+title: Panta Rhei Protocol
 nav_order: 3
 has_children: true
 permalink: /panta-rhei

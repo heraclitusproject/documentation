@@ -23,10 +23,9 @@ Available on [NextWeek Network](https://dca.nextweek.network)
 
 PLUTO-Bitcoin DCA is a smart contract that allows you to automatically implement a Dollar-cost Averaging strategy with your investments in Bitcoin. The smart contract is built on the Waves blockchain and uses the PLUTO token as the base capital for the investment. Unlike other DCA contracts that operate in rounds with term locks, PLUTO-Bitcoin DCA allows you to deposit and withdraw your funds at any time without any restrictions. The contract will perform a daily automated DCA based on the compounded interest earned from your investment in Bitcoin. All of the accumulated funds from the DCA can be manually claimed by the investor at any time. This provides a flexible and convenient way for you to apply a DCA strategy to your investments in Bitcoin.
 
-
 Smart Contract Address: [3P8XpsQa5TGqyUnNyvvw6jvqTnFBEznu6qD](https://wscan.io/3P8XpsQa5TGqyUnNyvvw6jvqTnFBEznu6qD)
 
 Available on [NextWeek Network](https://dca.nextweek.network)
 
-
+It's important to note that at this time the Pluto-based DCA smart contracts only accumulate tokens from compounded interest in the PLUTO token through native staking. This means that you are not relinquishing any portion of your original PLUTO deposit during the DCA process. To see how the Pluto-based DCA dapps operate, you can check the smart contract addresses transactions.
 

@@ -22,7 +22,7 @@ WXPools_TCI is a smart contract offered by the Heraclitus Project, in which you 
 
 The core principle of Tokenized Compound Interest remains as described in the first publications on Medium. However, with WXPools_TCI, we have decided to keep all derivatives in one Vault and sponsor initial boosting for early adopters. This means that all early minted TCIs will benefit from already provided boosting from the WX we have locked in for the entire four-year deposit period.
 
-![diagram](images/wxpools-01.png)
+![diagram](/images/wxpools-01.png)
 
 In order to keep our Vault in a good boosting state, we split the initial tAPY to fold 20% into WX boosting and 80% back into LP of each TCI. This way, we are able to offer a great solution for small investors who are unable to create a high boost on their own. In this model, we offer derivatives with high-interest rates without additional requirements from investors. You set up a TCI once and enjoy automatic compounding and high APY for as long as you want. Remember that TCI derivatives are freely tradable, you can easily transfer those tokens between addresses without losing your boosting.
 

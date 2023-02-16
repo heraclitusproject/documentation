@@ -6,6 +6,8 @@ permalink: /roadmap
 
 ---
 
+## The Heraclitus Project Roadmap
+
 The following is a detailed roadmap for the development of the Heraclitus Project. This roadmap outlines the steps the project will take to deliver on its vision of creating an innovative and user-friendly DeFi protocol. The project will be developed with a focus on transparency and a commitment to delivering features as they are ready. This means that the project will be built from the ground up, with each piece released as soon as it is complete, rather than waiting to release more complex bundles. By following this approach, the project aims to create a community-driven and open-source protocol that meets the needs of the DeFi community.
 
 * Early version of a webApp for handling the First DCA Smart Contracts *(Completed)*

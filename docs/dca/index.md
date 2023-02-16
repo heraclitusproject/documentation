@@ -23,4 +23,4 @@ The first approach is based on rounds, with each round having a 48-hour deposit-
 
 The second approach to DCA does not use term locks and instead provides manual deposit, withdrawal, and claim functions. This gives investors more control over their investments because they can deposit and withdraw funds at their leisure. It should be noted, however, that this approach may necessitate more active management on the part of the investor.
 
-First DCA dapps are available with a base capital in PLUTO and USDN (WINDX).
+First DCA dapps are available with a base capital in PLUTO and USDN (XTN).

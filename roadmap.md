@@ -9,9 +9,9 @@ permalink: /roadmap
 ## The Heraclitus Project Roadmap
 
 The following is a detailed roadmap for the development of the Heraclitus Project. This roadmap outlines the steps the project will take to deliver on its vision of creating an innovative and user-friendly DeFi protocol. The project **will be developed with a focus on transparency** and a commitment to delivering features as they are ready. This means that the project will be **built from the ground up, with each piece released as soon as it is complete**, rather than waiting to release more complex bundles. By following this approach, the project aims to create a community-driven and open-source protocol that meets the needs of the DeFi community.
-\
+
 *last update: 2023-02-16*
-\
+
 * Early version of a webApp for handling the First DCA Smart Contracts *(Completed)*
 * Genesis_DCA implementation *(Completed)*
 * Pluto2Bitcoin DCA *(Completed)*
@@ -44,6 +44,8 @@ The following is a detailed roadmap for the development of the Heraclitus Projec
 * Expansion of TCI and DCA Offerings with Additional Smart Contracts
 * Additional Features and Fine-Tuning the Protocol
 * Continuing to develop and refine additional products that are currently in the proof-of-concept stage
+\
+\
 \
 Our project is completely self-funded initiative, with no outside investment or institutional support. As such, it is being developed in the form of a side-project, with a small team working on it alongside their regular jobs. Despite this, the team is fully committed to the project's success and is working diligently to achieve the milestones outlined in the roadmap. We are excited to share our progress with the community and to continue delivering innovative solutions for the Waves ecosystem.
 

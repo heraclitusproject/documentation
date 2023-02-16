@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 ## The Heraclitus Project
+![title](/images/title.png)
 
 The Heraclitus Project is an initiative focused primarily on the Waves Blockchain. It has developed a collection of tokenized derivatives called Tokenized Compound Interest (TCI) that incorporate compound interest into their value, as well as automated Dollar-cost Averaging Smart Contracts. 
 

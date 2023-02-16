@@ -1,8 +1,8 @@
 title: The Heraclitus Project
 description: Documentation of the Heraclitus Project products
-remote_theme: "pmarsceill/just-the-docs"
+theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://docs.heraclitus.space
 
 aux_links:
   Website: https://heraclitus.space

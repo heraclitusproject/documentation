@@ -8,6 +8,7 @@ permalink: /tci/wxpools
 ---
 
 ## WX Pools TCI
+{: .no_toc }
 
 <details closed markdown="block">
   <summary>

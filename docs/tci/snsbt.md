@@ -7,6 +7,7 @@ parent: Tokenized Compound Interest
 permalink: /tci/snsbt
 
 ---
+
 ![snsbt-tci](/images/snsbt-tci.png)
 
 **sNSBT_TCI** is a derivative of Tokenized Compound Interest (TCI) and the first official derivative released by the Heraclitus Project. The base asset (BA) for sNSBT_TCI is Staked NSBT (sNSBT), and it incorporates the profit from sNSBT into its value. The smart contract of sNSBT_TCI is fully functional, and TCI can be minted via the official Waves Dapp interface by attaching payment in sNSBT. To mint new sNSBT_TCI with sNSBT, users need to use the "stake" function, and to withdraw sNSBT and accumulated interest, they can use the "withdraw" function, making it fully functional in both ways. The TCI tokens are burned from circulation during withdrawal, and the sNSBT_TCI token is freely traded without staking or other restrictions. This type of asset is also known as a Yield Bearing Token.

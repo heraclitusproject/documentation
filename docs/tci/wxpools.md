@@ -33,52 +33,83 @@ The compounding oracles will create additional volume by purchasing LP tokens di
 
 ## WX Pools TCI Derivatives
 
-### WX/USDN
-ticker: wxWXUSDN_TCI \
-token ID: [FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh](https://wscan.io/FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh) \
-base asset: [WXUSDNWXLP](https://wscan.io/F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9)
+### USDC/USDT (PepeBridge)
 
-### USDT/USDN
-ticker: wxUSDTUSDN_TCI \
-token ID: [2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6](https://wscan.io/2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6) \
-base asset: [USDTUSDNWXLP](https://wscan.io/97zHFp1C3cB7qfvx8Xv5f2rWp9nUSG5UnAamfPcW6txf)
+ticker : ppUSDCUSDT_TCI \
+token ID : [9NKYefdhmJisafgZaZuaRxJXQFMXvwq5xBYxTupUsuu3](https://wavesexplorer.com/assets/9NKYefdhmJisafgZaZuaRxJXQFMXvwq5xBYxTupUsuu3) \
+base asset : [USDCUSDTLP](https://wavesexplorer.com/assets/rZMQ6g31Lr7sPAaAoYc4U2PHCVauTuKUSzUbJtUyPZN)
 
-### USDC/USDN
-ticker: wxUSDCUSDN_TCI \
-token ID: [HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP](https://wscan.io/HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP) \
-base asset: [USDCUSDNWXLP](https://wscan.io/EK6N7S38xbtBT3SxAqoGdDLCiX6rojX6G169CnSyuE5)
+### WX/XTN
 
-### USDC/USDT
-ticker: wxUSDCUSDT_TCI \
-token ID: [BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj](https://wscan.io/BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj) \
-base asset: [USDCUSDTWXLP](https://wscan.io/EPhdEfmQaNcHyvDmRGhnLhgcJtKZ2a4k3ZBmKWtAEWyH)
+ticker : wxWXXTN_TCI \
+token ID : [FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh](https://wavesexplorer.com/assets/FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh) \
+base asset : [WXXTNWXLP](https://wavesexplorer.com/assets/F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9)
 
-### PUZZLE/USDN
-ticker: wxPUZZLEUSDN_TCI \
-token ID: [Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A](https://wscan.io/Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A) \
-base asset: [PUZZLEUSDNWXLP](https://wscan.io/E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP)
+### PUZZLE/XTN
 
-### WAVES/USDN
-ticker: wxWAVESUSDN_TCI \
-token ID: [EHia7oPmBSJyTd3Uix8sdpEvFXB9X18ioqreXiTaKyVJ](https://wscan.io/EHia7oPmBSJyTd3Uix8sdpEvFXB9X18ioqreXiTaKyVJ) \
-base asset: [WAVESUSDNWXLP](https://wscan.io/7KZbJrVopwJhkdwbe1eFDBbex4dkY63MxjTNjqXtrzj1)
+ticker : wxPUZZLEXTN_TCI \
+token ID : [Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A](https://wavesexplorer.com/assets/Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A) \
+base asset : [PUZZLEXTNWXLP](https://wavesexplorer.com/assets/E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP)
 
-### NSBT/USDN
-ticker: wxNSBTUSDN_TCI \
-token ID: [3hty6p21a9M4t9greh13nydX84bvaPyXDhKZ2FSmLNRg](https://wscan.io/3hty6p21a9M4t9greh13nydX84bvaPyXDhKZ2FSmLNRg) \
-base asset: [NSBTUSDNWXLP](https://wscan.io/AGo49HCtQUghfxHSpUXub3KBaMXyunJmTxQ4azgU5Ax5)
+### WAVES/XTN
 
-### BTC/USDN
-ticker: wxBTCUSDN_TCI \
-token ID: [FpRckcTCzfsfXwWhQCrL5rcrStRB6HxmRjP28qVFz4iu](https://wscan.io/FpRckcTCzfsfXwWhQCrL5rcrStRB6HxmRjP28qVFz4iu) \
-base asset: [BTCUSDNWXLP](https://wscan.io/8WhH5CCJ6NakPvEvAJcizqqD7H6axhupdYHDFumSDwsy)
+ticker : wxWAVESXTN_TCI \
+token ID : [EHia7oPmBSJyTd3Uix8sdpEvFXB9X18ioqreXiTaKyVJ](https://wavesexplorer.com/assets/EHia7oPmBSJyTd3Uix8sdpEvFXB9X18ioqreXiTaKyVJ) \
+base asset : [WAVESXTNWXLP](https://wavesexplorer.com/assets/7KZbJrVopwJhkdwbe1eFDBbex4dkY63MxjTNjqXtrzj1)
 
-### LTC/USDN
-ticker: wxLTCUSDN_TCI \
-token ID: [CNkqC6GPi888WdJ1EuVtu9JGZ9VHpAn8eTHwR8YZxXbv](https://wscan.io/CNkqC6GPi888WdJ1EuVtu9JGZ9VHpAn8eTHwR8YZxXbv) \
-base asset: [LTCUSDNWXLP](https://wscan.io/CNkqC6GPi888WdJ1EuVtu9JGZ9VHpAn8eTHwR8YZxXbv)
+### NSBT/XTN
 
-### ENNO/USDN
-ticker: wxENNOUSDN_TCI \
-token ID: [57kEMQuVpmhsG9eCkcGRA3hTsZZGa6axKJfNwXEU4EM1](https://wscan.io/57kEMQuVpmhsG9eCkcGRA3hTsZZGa6axKJfNwXEU4EM1) \
-base asset: [ENNOUSDNWXLP](https://wscan.io/HnW33dcEaeUTcgMLd8vHoJR5iAFZ2ngHDAa9E9496kDX)
+ticker : wxNSBTXTN_TCI \
+token ID : [3hty6p21a9M4t9greh13nydX84bvaPyXDhKZ2FSmLNRg](https://wavesexplorer.com/assets/3hty6p21a9M4t9greh13nydX84bvaPyXDhKZ2FSmLNRg) \
+base asset : [NSBTXTNWXLP](https://wavesexplorer.com/assets/AGo49HCtQUghfxHSpUXub3KBaMXyunJmTxQ4azgU5Ax5)
+
+### ENNO/XTN
+
+ticker : wxENNOXTN_TCI \
+token ID : [57kEMQuVpmhsG9eCkcGRA3hTsZZGa6axKJfNwXEU4EM1](https://wavesexplorer.com/assets/57kEMQuVpmhsG9eCkcGRA3hTsZZGa6axKJfNwXEU4EM1) \
+base asset : [ENNOXTNWXLP](https://wavesexplorer.com/assets/HnW33dcEaeUTcgMLd8vHoJR5iAFZ2ngHDAa9E9496kDX)
+
+## Deprecated
+We regret to inform you that due to recent developments and the Waves Team's decision to phase out the original gateways, wxPools_TCI will undergo restructuring. As a result, all TCI derivatives containing deprecated WXG tokens will be discontinued. We strongly advise removing your funds from these tokens as soon as possible. You may do so by utilizing the [Nextweek.Network](https://nextweek.network) web interface.
+
+### USDT/XTN - deprecated
+
+ticker : wxUSDTXTN_TCI \
+token ID : [2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6](https://wavesexplorer.com/assets/2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6) \
+base asset : [USDTXTNWXLP](https://wavesexplorer.com/assets/97zHFp1C3cB7qfvx8Xv5f2rWp9nUSG5UnAamfPcW6txf)
+
+### USDC/XTN - deprecated
+
+ticker : wxUSDCXTN_TCI \
+token ID : [HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP](https://wavesexplorer.com/assets/HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP) \
+base asset : [USDCXTNWXLP](https://wavesexplorer.com/assets/EK6N7S38xbtBT3SxAqoGdDLCiX6rojX6G169CnSyuE5)
+
+### USDC/USDT - deprecated
+
+ticker : wxUSDCUSDT_TCI \
+token ID : [BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj](https://wavesexplorer.com/assets/BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj) \
+base asset : [USDCUSDTWXLP](https://wavesexplorer.com/assets/EPhdEfmQaNcHyvDmRGhnLhgcJtKZ2a4k3ZBmKWtAEWyH)
+
+### BUSD/XTN - deprecated
+
+ticker : wxBUSDXTN_TCI \
+token ID : [57kEMQuVpmhsG9eCkcGRA3hTsZZGa6axKJfNwXEU4EM1](https://wavesexplorer.com/assets/6W75SsNwR12ZF5Hsr7uCJGtiH3xCn12U1rLbn2qfcjtP) \
+base asset : [BUSDXTNWXLP](https://wavesexplorer.com/assets/3ZfzodjKXPzAtUrdeFFquq9KjaccW6nMWXr6qbVJmSQa)
+
+### BUSD/USDT - deprecated
+
+ticker : wxBUSDXTN_TCI \
+token ID : [57kEMQuVpmhsG9eCkcGRA3hTsZZGa6axKJfNwXEU4EM1](https://wavesexplorer.com/assets/6W75SsNwR12ZF5Hsr7uCJGtiH3xCn12U1rLbn2qfcjtP) \
+base asset : [BUSDXTNWXLP](https://wavesexplorer.com/assets/3ZfzodjKXPzAtUrdeFFquq9KjaccW6nMWXr6qbVJmSQa)
+
+### BTC/XTN - deprecated
+
+ticker : wxBTCUSDN_TCI \
+token ID : [FpRckcTCzfsfXwWhQCrL5rcrStRB6HxmRjP28qVFz4iu](https://wavesexplorer.com/assets/FpRckcTCzfsfXwWhQCrL5rcrStRB6HxmRjP28qVFz4iu) \
+base asset : [BTCXTNWXLP](https://wavesexplorer.com/assets/8WhH5CCJ6NakPvEvAJcizqqD7H6axhupdYHDFumSDwsy)
+
+### LTC/XTN - deprecated
+
+ticker : wxLTCXTN_TCI \
+token ID : [CNkqC6GPi888WdJ1EuVtu9JGZ9VHpAn8eTHwR8YZxXbv](https://wavesexplorer.com/assets/CNkqC6GPi888WdJ1EuVtu9JGZ9VHpAn8eTHwR8YZxXbv) \
+base asset : [LTCXTNWXLP](https://wavesexplorer.com/assets/CNkqC6GPi888WdJ1EuVtu9JGZ9VHpAn8eTHwR8YZxXbv)

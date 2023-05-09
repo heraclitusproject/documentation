@@ -21,6 +21,6 @@ For our decentralized applications, we provide two approaches to Dollar-cost Ave
 
 The first approach is based on rounds, with each round having a 48-hour deposit-withdraw window. DCA funds are distributed monthly via mass transfer, and any remaining base capital after a completed round will automatically participate in the next round. Everyone who deposits a base capital receives derivatives, which can be freely traded at any time.
 
-The second approach to DCA does not use term locks and instead provides manual deposit, withdrawal, and claim functions. This gives investors more control over their investments because they can deposit and withdraw funds at their leisure. It should be noted, however, that this approach may necessitate more active management on the part of the investor.
+The second approach to DCA avoids term locks in favor of manual deposit, withdrawal, and claim functions. Because investors can deposit and withdraw funds at their convenience, they have more control over their investments. However, it should be noted that this strategy may necessitate more active management on the part of the investor.
 
 First DCA dapps are available with a base capital in PLUTO and USDN (XTN).
